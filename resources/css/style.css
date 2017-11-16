@@ -7,11 +7,14 @@ html {
 a , .home , .design , .foot {
   color: white;
 }
-.design{
+.design , .basic {
   font-size: 23px;
 }
-.design , .head {
+.design , .head , .process , .basic {
   font-weight: bold;
+}
+.process {
+  font-size: 32px;
 }
 .head {
   font-size: 70px;
@@ -26,4 +29,7 @@ a , .home , .design , .foot {
 .foot {
   font-size: 11px;
   background-color: dimgray;
+}
+.small {
+  font-size: 14px;
 }
