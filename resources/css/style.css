@@ -7,8 +7,11 @@ html {
 a , .home , .design , .foot {
   color: white;
 }
-.design , .basic {
+.basic {
   font-size: 23px;
+}
+.design {
+  font-size: 25px;
 }
 .design , .head , .process , .basic {
   font-weight: bold;
